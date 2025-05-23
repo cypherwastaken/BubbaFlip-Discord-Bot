@@ -3,6 +3,7 @@
 # data\connections.json
 
 # Use this command to allow users to connect their bubbaflip account to your bot
+
 @bot.tree.command(name="connect", description="Connect your BubbaBlox account")
 @app_commands.describe(username="Your BubbaFlip username")
 async def connect(interaction: discord.Interaction, username: str):
