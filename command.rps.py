@@ -1,6 +1,6 @@
 # The following was removed:
 # - balance fetching logic (balance defaulted to 10,000)
-# - balance adjusting logic
+# - balance adjusting logic 
 
 @bot.tree.command(name="rps", description="Play Rock Paper Scissors")
 @app_commands.describe(choice="rock, paper, or scissors", amount="Amount to bet")
