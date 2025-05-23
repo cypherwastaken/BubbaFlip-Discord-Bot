@@ -9,3 +9,6 @@ Install the following libraries with **pip**:
 - Discord (**pip install py-cord** or **pip install -U discord.py**)
 
 Once everything is installed, set up your Discord bot for slash commands as usual and paste the commands into your code
+
+## Server Template: https://discord.new/sykKQ22A9G65
+#### Check out my new project, btbubbablox! https://btbubba.vercel.app
